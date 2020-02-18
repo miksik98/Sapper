@@ -11,3 +11,6 @@ How to run it:
 2. Run:
     
     scala -classpath bin GameMain
+    
+## Made by
+Beata Posłuszny, Mikołaj Sikora, Monika Dziedzic
